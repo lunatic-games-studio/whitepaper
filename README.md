@@ -24,8 +24,8 @@
 [lets-talk-economics.md](lets-talk-economics.md)
 {% endcontent-ref %}
 
-{% content-ref url="token-sale.md" %}
-[token-sale.md](token-sale.md)
+{% content-ref url="token-allocation.md" %}
+[token-allocation.md](token-allocation.md)
 {% endcontent-ref %}
 
 {% content-ref url="our-products.md" %}
