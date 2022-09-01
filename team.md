@@ -32,3 +32,5 @@
   [https://www.linkedin.com/in/sraj17](https://www.linkedin.com/in/sraj17)
 * Pratik Sanghar, Illustrator\
   [https://www.linkedin.com/in/pratik-sanghar-6a17791ab/](https://www.linkedin.com/in/pratik-sanghar-6a17791ab/)
+* Rishabh Agarwal, 3D Animator\
+  [https://www.linkedin.com/in/rishabhagarwal09](https://www.linkedin.com/in/rishabhagarwal09)
