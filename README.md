@@ -20,8 +20,8 @@
 [our-futuristic-tech-stack.md](our-futuristic-tech-stack.md)
 {% endcontent-ref %}
 
-{% content-ref url="lets-talk-economics.md" %}
-[lets-talk-economics.md](lets-talk-economics.md)
+{% content-ref url="lets-talk-economics-our-revenue-model/" %}
+[lets-talk-economics-our-revenue-model](lets-talk-economics-our-revenue-model/)
 {% endcontent-ref %}
 
 {% content-ref url="token-allocation.md" %}
