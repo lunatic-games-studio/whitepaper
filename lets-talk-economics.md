@@ -17,13 +17,18 @@ There is a certain amount of Lives they will hold. To buy more lives and continu
 
 ## Monetization
 
+#### For Users
+
 * Metaverse games frequently monetize based on virtual good transactions, which are interactive NFTs.
 * All the transaction happens via **$SLNT** tokens.
 * To play the game and use the free inventory items, users must **stake $SLNT** tokens in-game.
 * Players who win weekly/monthly tournaments are rewarded $SLNT can be exchanged for MATIC coin.
 * $SLNT can be used to purchase life in the game.
 * Players can even buy **fractions of rare NFTs** on our platform. We have recently partnered up with **Nibbl(**https://nibbl.xyz/**)** to fractionalize the NFTs.
-* One-time fee: **$6000 worth of $SLNT**.
+
+#### For Brands
+
+* One-time fee: **$6000 of $SLNT**.
 * The Profit margin of 15% from brands on selling products from in-game inventory( custom products will design in-house for brands who will collaborate with us).
 * Lunatic games provide a runway for luxury brands to enter web3 while collaborating with us. The Benefit of collaboration providing valuable customers who live luxurious lifestyles.
 
