@@ -24,27 +24,29 @@ There is a certain amount of Lives they will hold. To buy more lives and continu
 * To play the game and use the free inventory items, users must **stake $SLNT** tokens in-game.
 * Players who win weekly/monthly tournaments are rewarded $SLNT can be exchanged for MATIC coin.
 * $SLNT can be used to purchase life in the game.
-* Players can even buy **fractions of rare NFTs** on our platform. We have recently partnered up with **Nibbl(**https://nibbl.xyz/**)** to fractionalize the NFTs.
+* Players can even buy **fractions of rare NFTs** on our platform. We recently partnered up with **Nibbl(**https://nibbl.xyz/**)** to fractionalize the NFTs.
 
 #### For Brands
 
-* One-time fee: **$6000 of $SLNT**.
-* The Profit margin of 15% from brands on selling products from in-game inventory( custom products will design in-house for brands who will collaborate with us).
-* Lunatic games provide a runway for luxury brands to enter web3 while collaborating with us. The Benefit of collaboration providing valuable customers who live luxurious lifestyles.
+* For exclusive brands, there is a one-time fee is **USD/USDT 6000 in $SLNT**.
+* The profit margin from brands selling products from in-game inventory is **15%**. ( custom products will design in-house for brands who will collaborate with us).
+* While collaborating with us, Lunatic Games provides a platform for luxury brands to enter web3. The advantage of collaboration is that it provides valuable customers who live luxurious lifestyles.
 
-## **The SLNT Token**
+## **The $SLNT Token**
 
-In all our games, the $SLNT token is a base currency using which all the transactions happen.
+In all of our games, the **$SLNT** token serves as the base currency for all transactions.
 
-**It is an ERC20 token.** All the properties of an ERC20 token apply to the $SLNT token.
+It is a token based on the **ERC20** protocol.
 
-LNT token is a **Continuous token** powered by the **Bancor Bonding Curve**.
+The **$SLNT** token has all of the properties of an **ERC20** token.
+
+**The Bancor Bonding Curve** powers the **$SLNT** token, a **continuous token**.
 
 ### Benefits of a Continuous token
 
-* The price of the token is adjusted by **Bancor Bonding Curve**. This algorithm resides in the smart contract.
-* No liquidity issues, minting, and burning of a token is decided by the Bancor Bonding Curve algorithm.
-* Rewarding multiple beneficiaries for the development of a project without their permission.
-* The value of the network is more naturally tied to interest (fewer magic numbers). Networks are allowed to grow and die naturally.
+* The **Bancor Bonding Curve** influences the token's price. The smart contract contains this algorithm.
+* The Bancor Bonding Curve algorithm decides on token minting and burning when there are no liquidity issues.
+* Multiple beneficiaries are being rewarded for the development of a project without their permission.
+* The network's value is more naturally linked to interest (fewer magic numbers). Networks are allowed to grow and die in their own time.
 
 ****
