@@ -15,7 +15,8 @@ We are using:
 * **WebRTC** for secure communication between players.
 * **RPC** communication with Blockchain.
 * **Subgraph** for processing and storing data from Blockchain so that it can be queried via GraphQL.
-* **Enjin's First Unreal Engine SDK**
+* **Enjin's First Unreal Engine SDK.**
+* **Gitlab to run our CI/CD pipelines.**
 
 ### Our Blockchain Stack
 
@@ -36,7 +37,7 @@ We are using:
 * **NextJS** for frontend development.
 * **Django** for Backend.
 
-### Bazaar, our interactive NFT marketplace
+### Bazaar, our interactive NFT marketplace stack
 
 Website:
 
@@ -48,6 +49,6 @@ We are using **Polygon Blockchain** to keep our NFTs. We will be introducing **m
 
 We will be using **Router Protocol** to swap NFT assets across chains.
 
-### Our Interactive NFTs
+### Our Interactive NFTs stack
 
 TBD

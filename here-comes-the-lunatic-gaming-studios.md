@@ -8,19 +8,37 @@ Collaboration can provide valuable customers who want to improve their lifestyle
 
 The benefit of collaboration is that it provides valuable customers to the companies that collaborate with lunatic games studio.
 
-Right now, we are a team of 20+ people specializing in Game Development, Blockchain, Metaverse, Marketing, Website Developers, Backend developers, etc.
+Right now, we are a team of 20+ people specializing in:
+
+* Game Development
+* Blockchain
+* Metaverse
+* Marketing
+* Website Developers
+* Backend developers
+* 3D Generalist
+* Level Designer
+* Environment Designer
+* Music Producer
+* Voice Over Artist
+* Animators
+* Concept Artist
+* Illustrator
+* Character Designer
+* Creative Content Writer
 
 **We are an entirely bootstrapped company.**
 
 ## What do we have?
 
-We are coming up with three different products as of now:
+As of now, we are developing **four** distinct products.
 
 * **MOON WITCH GAME**
-* **An Interactive NFT Marketplace**
+* **Bazaar: An Interactive NFT Marketplace**
 * **NFT 2.0 - The Interactive NFT**
+* **Unreal Engine Plugins**
 
-You can find more information in the Our Products section of our Whitepaper.
+You can find more information on our website: [https://lunaticgamestudio.xyz/](http://lunaticgamestudio.xyz/new\_luna/)
 
 ## Our future
 
