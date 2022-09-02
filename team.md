@@ -34,3 +34,5 @@
   [https://www.linkedin.com/in/pratik-sanghar-6a17791ab/](https://www.linkedin.com/in/pratik-sanghar-6a17791ab/)
 * Rishabh Agarwal, 3D Animator\
   [https://www.linkedin.com/in/rishabhagarwal09](https://www.linkedin.com/in/rishabhagarwal09)
+* Benaifer Mirza, Voice Over Artist\
+  [https://www.linkedin.com/in/benaifermirza/](https://www.linkedin.com/in/benaifermirza/)
