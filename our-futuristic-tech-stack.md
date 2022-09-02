@@ -47,7 +47,7 @@ Blockchain:
 
 We are using **Polygon Blockchain** to keep our NFTs. We will be introducing **multichain swapping support** soon.
 
-We will be using **Router Protocol or Socket.Tech** to swap NFT assets across chains.
+We will be using **Router Protocol** to swap NFT assets across chains.
 
 ### Our Interactive NFTs stack
 
