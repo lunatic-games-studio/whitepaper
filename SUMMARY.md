@@ -11,4 +11,4 @@
 * [Token Allocation](token-allocation.md)
 * [Our Products](our-products.md)
 * [Team](team.md)
-* [The conclusion](the-conclusion.md)
+* [Connect With Us](connect-with-us.md)
