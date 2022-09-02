@@ -35,3 +35,7 @@
 {% content-ref url="team.md" %}
 [team.md](team.md)
 {% endcontent-ref %}
+
+{% content-ref url="connect-with-us.md" %}
+[connect-with-us.md](connect-with-us.md)
+{% endcontent-ref %}
