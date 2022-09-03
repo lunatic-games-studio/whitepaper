@@ -8,6 +8,7 @@
 * [Our Futuristic Tech Stack](our-futuristic-tech-stack.md)
 * [Let's talk Economics(Our Revenue Model)](lets-talk-economics-our-revenue-model/README.md)
   * [Monitization](lets-talk-economics-our-revenue-model/monitization.md)
+* [SLNT Token](slnt-token.md)
 * [Token Allocation](token-allocation.md)
 * [Our Products](our-products.md)
 * [Team](team.md)
