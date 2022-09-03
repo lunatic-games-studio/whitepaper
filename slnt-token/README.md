@@ -25,7 +25,7 @@ You can have [different curve shapes](https://medium.com/thoughtchains/on-single
 
 The [Bancor](https://www.bancor.network/) Formula allows us to calculate the dynamically changing price of a Continuous Token. The formula relies on a _constant_ **Reserve Ratio** that is calculated as:
 
-<figure><img src=".gitbook/assets/undefined - Imgur.png" alt=""><figcaption><p>Reserve Ratio</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/undefined - Imgur.png" alt=""><figcaption><p>Reserve Ratio</p></figcaption></figure>
 
 {% hint style="info" %}
 The Reserve Ratio is expressed as a percentage greater than 0% and up to 100%.
@@ -39,7 +39,7 @@ Since each purchase or sale of a Continuous Token triggers an increase or decrea
 
 The Reserve Ratio determines how sharply a Continuous Token’s price needs to adjust in order to be maintained with every transaction, or in other words, its _price sensitivity_.
 
-<figure><img src=".gitbook/assets/qYnG26I - Imgur.png" alt=""><figcaption><p>Price Sensitivity Graphs</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/qYnG26I - Imgur.png" alt=""><figcaption><p>Price Sensitivity Graphs</p></figcaption></figure>
 
 ### Bonding curve price formulas
 
@@ -57,11 +57,11 @@ $$
 P dS(1 − F) = F S dP
 $$
 
-<figure><img src=".gitbook/assets/Screenshot 2022-09-04 at 5.04.58 AM.png" alt=""><figcaption><p>Basic Bonding Curve Formula</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2022-09-04 at 5.04.58 AM.png" alt=""><figcaption><p>Basic Bonding Curve Formula</p></figcaption></figure>
 
 #### Continuous Token Price
 
-<figure><img src=".gitbook/assets/undefined - Imgur (1).png" alt=""><figcaption><p>Continuous Token Price</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/undefined - Imgur (1).png" alt=""><figcaption><p>Continuous Token Price</p></figcaption></figure>
 
 Recall that the price of a Continuous Token increase as the supply of continuous tokens increase. Buying slides you up the price curve and selling slides you back down. Calculating price thus becomes problematic when you want to exchange a plural amount of tokens.
 

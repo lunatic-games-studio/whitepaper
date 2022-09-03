@@ -24,8 +24,8 @@
 [lets-talk-economics-our-revenue-model](lets-talk-economics-our-revenue-model/)
 {% endcontent-ref %}
 
-{% content-ref url="slnt-token.md" %}
-[slnt-token.md](slnt-token.md)
+{% content-ref url="slnt-token/" %}
+[slnt-token](slnt-token/)
 {% endcontent-ref %}
 
 {% content-ref url="token-allocation.md" %}
