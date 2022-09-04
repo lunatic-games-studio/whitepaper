@@ -1,7 +1,7 @@
 # 👋 Whitepaper
 
-{% content-ref url="metaverse-is-the-new-lifestyle.md" %}
-[metaverse-is-the-new-lifestyle.md](metaverse-is-the-new-lifestyle.md)
+{% content-ref url="gaming-is-the-new-lifestyle.md" %}
+[gaming-is-the-new-lifestyle.md](gaming-is-the-new-lifestyle.md)
 {% endcontent-ref %}
 
 {% content-ref url="market-overview.md" %}

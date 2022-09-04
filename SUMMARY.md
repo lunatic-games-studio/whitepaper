@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 Whitepaper](README.md)
-* [Metaverse is the new lifestyle](metaverse-is-the-new-lifestyle.md)
+* [Gaming is the new lifestyle](gaming-is-the-new-lifestyle.md)
 * [Market Overview](market-overview.md)
 * [Complexities of the Industry](complexities-of-the-industry.md)
 * [Here comes the Lunatic Gaming Studios](here-comes-the-lunatic-gaming-studios.md)
