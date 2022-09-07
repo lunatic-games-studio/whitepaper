@@ -22,7 +22,7 @@ We are using:
 
 * **Cosmos SDK and Tendermint** to create our blockchain.
 * **Ignite** for scaffolding a blockchain.
-* Cross-chaining it with either **Polygon or SKALE**.
+* Cross-chaining it with either **Solana**.
 * **Moralis** for authentication.
 * Our backend is written in **Go** for **Blockchain communication**.
 
