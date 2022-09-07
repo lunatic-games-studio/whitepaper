@@ -12,5 +12,6 @@
   * [Automated Market Makers(AMM)](slnt-token/automated-market-makers-amm.md)
 * [Token Allocation](token-allocation.md)
 * [Our Products](our-products.md)
+* [Roadmap](roadmap.md)
 * [Team](team.md)
 * [Connect With Us](connect-with-us.md)
