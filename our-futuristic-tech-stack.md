@@ -45,7 +45,7 @@ We are using **Bubble** to build the Bazaar due to many plugins.
 
 Blockchain:
 
-We are using **Polygon Blockchain** to keep our NFTs. We will be introducing **multichain swapping support** soon.
+We are using **Solana Blockchain** to keep our NFTs. We will be introducing **multichain swapping support** soon.
 
 We will be using **Router Protocol or Socket.Tech** to swap NFT assets across chains.
 
