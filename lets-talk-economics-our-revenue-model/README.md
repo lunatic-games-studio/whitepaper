@@ -1,4 +1,4 @@
-# Let's talk Economics(Our Revenue Model)
+# Let's talk Economics
 
 ## Engagement Strategies
 
@@ -14,5 +14,22 @@
 All of our games have different societies within them. To get better lifestyle products, they must keep playing and upgrading in society. They will feel more valued when their society gets upgraded.
 
 There is a certain amount of Lives they will hold. To buy more lives and continue playing, they need **more $SLNT tokens**.
+
+## **The $SLNT Token**
+
+In all of our games, the **$SLNT** token serves as the base currency for all transactions.
+
+It is a token based on the **ERC20** protocol.
+
+The **$SLNT** token has all of the properties of an **ERC20** token.
+
+**The Bancor Bonding Curve** powers the **$SLNT** token, a **continuous token**.
+
+### Benefits of a Continuous token
+
+* The **Bancor Bonding Curve** influences the token's price. The smart contract contains this algorithm.
+* The Bancor Bonding Curve algorithm decides on token minting and burning when there are no liquidity issues.
+* Multiple beneficiaries are being rewarded for the development of a project without their permission.
+* The network's value is more naturally linked to interest (fewer magic numbers). Networks are allowed to grow and die in their own time.
 
 ****

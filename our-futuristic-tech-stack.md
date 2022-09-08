@@ -20,10 +20,7 @@ We are using:
 
 ### Our Blockchain Stack
 
-* **Cosmos SDK and Tendermint** to create our blockchain.
-* **Ignite** for scaffolding a blockchain.
-* Cross-chaining it with either **Solana**.
-* **Moralis** for authentication.
+* **Layer 1** blockchain. We did not decide on any specific EVM blockchain yet.
 * Our backend is written in **Go** for **Blockchain communication**.
 
 ### Our Metaverse Stack
@@ -36,18 +33,6 @@ We are using:
 
 * **NextJS** for frontend development.
 * **Django** for Backend.
-
-### Bazaar, our interactive NFT marketplace stack
-
-Website:
-
-We are using **Bubble** to build the Bazaar due to many plugins.
-
-Blockchain:
-
-We are using **Solana Blockchain** to keep our NFTs. We will be introducing **multichain swapping support** soon.
-
-We will be using **Router Protocol or Socket.Tech** to swap NFT assets across chains.
 
 ### Our Interactive NFTs stack
 
