@@ -2,7 +2,6 @@
 
 * [👋 Whitepaper](README.md)
 * [Gaming is the new lifestyle](gaming-is-the-new-lifestyle.md)
-* [Market Overview](market-overview.md)
 * [Complexities of the Industry](complexities-of-the-industry.md)
 * [Here comes the Lunatic Gaming Studios](here-comes-the-lunatic-gaming-studios.md)
 * [Our Futuristic Tech Stack](our-futuristic-tech-stack.md)

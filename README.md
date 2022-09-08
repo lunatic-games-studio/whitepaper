@@ -4,10 +4,6 @@
 [gaming-is-the-new-lifestyle.md](gaming-is-the-new-lifestyle.md)
 {% endcontent-ref %}
 
-{% content-ref url="market-overview.md" %}
-[market-overview.md](market-overview.md)
-{% endcontent-ref %}
-
 {% content-ref url="complexities-of-the-industry.md" %}
 [complexities-of-the-industry.md](complexities-of-the-industry.md)
 {% endcontent-ref %}
@@ -34,6 +30,10 @@
 
 {% content-ref url="our-products.md" %}
 [our-products.md](our-products.md)
+{% endcontent-ref %}
+
+{% content-ref url="roadmap.md" %}
+[roadmap.md](roadmap.md)
 {% endcontent-ref %}
 
 {% content-ref url="team.md" %}
