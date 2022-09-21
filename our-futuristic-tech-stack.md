@@ -20,8 +20,8 @@ We are using:
 
 ### Our Blockchain Stack
 
-* **Layer 1** blockchain. We did not decide on any specific EVM blockchain yet.
-* Our backend is written in **Go** for **Blockchain communication**.
+* **Layer 1** blockchain. We will eventually cover all the EVM based blockchains.
+* Our backend is written in **Rust** for **Blockchain communication**.
 
 ### Our Metaverse Stack
 
